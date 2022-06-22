@@ -14,7 +14,7 @@
         android:theme="@style/Theme.UASDPM2011500093"
         tools:targetApi="31">
         <activity
-            android:name="DtaDosen"
+            android:name=".DtaDosen"
             android:exported="false" />
         <activity
             android:name=".EntryDosen"
